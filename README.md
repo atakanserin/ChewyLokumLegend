@@ -1,4 +1,4 @@
 # ChewyLokumLegend
-It is a Candy Crush Saga alike game with Turkish Delight twist for Software Engineering course in Koc University, Fall 2015.
+It is a Candy Crush Saga alike game with Turkish Delight twist for Software Engineering course in Koc University, Fall 2014.
 Beware of the oriental music and sound effects: 
 https://www.youtube.com/watch?v=VWV12SjsvBA&t=39s
